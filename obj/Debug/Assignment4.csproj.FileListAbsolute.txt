@@ -1,0 +1,14 @@
+C:\Users\askke\Source\Repos\Assignment4\obj\Debug\Assignment4.csprojAssemblyReference.cache
+C:\Users\askke\Source\Repos\Assignment4\obj\Debug\Assignment4.csproj.CoreCompileInputs.cache
+C:\Users\askke\Source\Repos\Assignment4\bin\Debug\Assignment4.exe.config
+C:\Users\askke\Source\Repos\Assignment4\bin\Debug\Assignment4.exe
+C:\Users\askke\Source\Repos\Assignment4\bin\Debug\Assignment4.pdb
+C:\Users\askke\Source\Repos\Assignment4\obj\Debug\Assignment4.exe
+C:\Users\askke\Source\Repos\Assignment4\obj\Debug\Assignment4.pdb
+D:\C#\Source\Repos\Assignment4\bin\Debug\Assignment4.exe.config
+D:\C#\Source\Repos\Assignment4\bin\Debug\Assignment4.exe
+D:\C#\Source\Repos\Assignment4\bin\Debug\Assignment4.pdb
+D:\C#\Source\Repos\Assignment4\obj\Debug\Assignment4.csprojAssemblyReference.cache
+D:\C#\Source\Repos\Assignment4\obj\Debug\Assignment4.csproj.CoreCompileInputs.cache
+D:\C#\Source\Repos\Assignment4\obj\Debug\Assignment4.exe
+D:\C#\Source\Repos\Assignment4\obj\Debug\Assignment4.pdb
