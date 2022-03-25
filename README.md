@@ -1,4 +1,4 @@
-# C# Examples
+# C# Example
 
 This is a program in C# that allows users to add good and bad aliens to a spaceship.
 The age, name, and color of each alien are stored, and when the aliens do battle the colors of the aliens affect
